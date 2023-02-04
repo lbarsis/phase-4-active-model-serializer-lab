@@ -50,7 +50,7 @@ post2 = author1.posts.create(
 )
 
 post2.tags.create(
-  name: "qui"
+  name: "quintan"
 )
 
 post2.tags.create(
